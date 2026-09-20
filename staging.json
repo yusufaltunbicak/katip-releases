@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "İsteğe bağlı teknik tanılama, destek kodu, imzalı otomatik güncellemeler ve ortak arşiv için eşzamanlı erişim koruması. Toplantı özeti ve yerel Whisper düzeltmeleri dahildir.",
+  "pub_date": "2026-09-20T19:05:40.497Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGtXeWVzRy9HVkhVaStVbXFiVnlQMWZMUzhNTm5KM0pLbXhQTktWRHVHdU1JSmp3V1J4V2tNa29kd2dYSEE4ZjhwdTdPZkNYQ1VaMlcxNTd2TXVldzJpZ21ibzQzdGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTMxMTQwCWZpbGU6S2F0aXAtU3RhZ2luZy5hcHAudGFyLmd6ClRvYWEvaEJEY2tUeXIzOFA2aGl5dGoyWVYvWGxRVEZWekc2QUc1bHNMVkYwcE9kbE8vZFdZZXRDNUdYdVhnRUNlTDVWSnBIa2N1Q2o4NGJLWGpuU0FnPT0K",
+      "url": "https://github.com/yusufaltunbicak/katip-releases/releases/download/staging-v0.1.1/Katip-Staging.app.tar.gz"
+    }
+  }
+}
