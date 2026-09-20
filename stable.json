@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "İsteğe bağlı teknik tanılama, destek kodu, imzalı otomatik güncellemeler ve ortak arşiv için eşzamanlı erişim koruması. Toplantı özeti ve yerel Whisper düzeltmeleri dahildir.",
+  "pub_date": "2026-09-20T19:04:15.739Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGtXeWVzRy9HVkxmeWNvTDBta1JSUTlVKy9nWHZZeWFteGVTSEQzTkw2N015RmpqQ01KY1lXK3dLVXpyVWlWemRlQnlPK1hYQmhvUHlFaWhTa0tvUGpURG5yNnY1L2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTMxMDU1CWZpbGU6S2F0aXAuYXBwLnRhci5negpPdlRoNTdKblN5akxuNXRoTUpsZGVIN0RIS2hnQW1oMUZuSzlEaThhdGdtTnNtaDlvZGs0QXhmaFQ4Mk5NWlJFKzhNbkhTcnJGREdIVlN2aGZtQlBCUT09Cg==",
+      "url": "https://github.com/yusufaltunbicak/katip-releases/releases/download/v0.1.1/Katip.app.tar.gz"
+    }
+  }
+}
