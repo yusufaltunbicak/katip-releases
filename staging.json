@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Yerel Whisper modellerinde sessizlik kaynaklı hayali metinler azaltıldı; kayıt yankısı, konuşma bağlamı ve kelime zamanlamaları iyileştirildi. Qwen 8-bit ile kayıt çözümleme, otomatik konuşmacı ayrıştırma ve mevcut test kayıtlarını güncelleme desteği eklendi. Uzun toplantı özetleri, lisans aktivasyonu, isteğe bağlı tanılama ve imzalı güncellemeler bu sürümde bir araya getirildi.",
-  "pub_date": "2026-09-21T05:42:24.462Z",
+  "version": "0.1.3",
+  "notes": "## Kelimeleriniz, tercih ettiğiniz yazımla\n\n- Ayarlar → Sözlük ekranı tüm kullanıcılara açıldı.\n- Kişi, şirket ve ürün adlarını tercih ettiğiniz yazımla ekleyebilirsiniz. Destekleyen ses modelleri bu kelimeleri tanıma ipucu olarak kullanır; son eklenen kelimelere öncelik verilir.\n- `micro soft → Microsoft` gibi düzeltme kuralları tanımlayabilirsiniz. Kurallar, tüm modellerin tamamlanan transkriptlerine ve yeniden işlediğiniz kayıtlara otomatik uygulanır.\n- Kelime ve düzeltmeleri UTF-8 kodlamalı `.txt` dosyasından veya metin yapıştırarak topluca ekleyebilirsiniz. İçe aktarmadan önce girdiler kontrol edilir; çakışan kurallar kabul edilmez.\n- Türkçe ekler korunarak yazım düzeltilir. Düzeltmeler kelime zamanlarını ve konuşmacı etiketlerini korur.\n- ElevenLabs Scribe modellerinde sözlük ipuçları desteklenir.",
+  "pub_date": "2026-09-21T07:01:08.412Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGtXeWVzRy9HVkRqUkNLVUVnNlBhd0JnR1FxTkFEM2R0SUx3MnQ0eUpnN2w4NXpMSHNIcEtjMjNIc1N6cXBpOFI4N1hqTDhjVndlTCtBbERHSm9qQ1UwZDhWbFhDS0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTY5MzQ0CWZpbGU6S2F0aXAtU3RhZ2luZy5hcHAudGFyLmd6CkR4bExFV0QvRDBOSjhjOXZsbkRScmZiOENSMmhXVm00V1dpMGJmUUF5RThqWHJPU05kSjQzK25CeFNGZjVIM1gyTWNacHNZa1JQM05XWWNhMFp3R0JnPT0K",
-      "url": "https://katipai.com/releases/staging/0.1.2/Katip-Staging.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGtXeWVzRy9HVk56RERxd3JqbU9Gd1d4WDZ0ZmtEUTZ5Zlg1SmRlU2c0bnhKY2Yza0JEUVFWT3I4NXdkYlV4UGNIZDVKdkhHVkU3REltazJYT2RzOFNjTnZtSWgyYkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTc0MDY4CWZpbGU6S2F0aXAtU3RhZ2luZy5hcHAudGFyLmd6CmtRTUdwSTJwWGdXeFhlVXdZU0NZSzBCcWZpZFFqS3oycm1xbjZzSmlBVnp6NHhDb1R4S3ExTHFQK2tKVzJGZnQvRXpwaFZQRXBEejV5TCs1YThWeEFBPT0K",
+      "url": "https://katipai.com/releases/staging/0.1.3/Katip-Staging.app.tar.gz"
     }
   }
 }
