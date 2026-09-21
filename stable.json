@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "## Güncelleme düzeltmesi\n\n- Katip ve Katip Staging'de indirilen güncellemenin kurulamamasına neden olan hata giderildi.\n- Önceki güncellemeyi kuramayan kullanıcılar bu sürüme doğrudan güncelleyebilir.",
-  "pub_date": "2026-09-21T10:16:23.667Z",
+  "version": "0.1.5",
+  "notes": "## Ses dökümü hatalarında daha açık yönlendirme\n\n- ElevenLabs'in kredi, erişim izni ve kullanım koşulu hataları artık yanlışlıkla API anahtarı hatası olarak gösterilmiyor.\n- Kayıt sonundaki ses dökümü başarısız olduğunda gerçek neden ve çözüm adımları Türkçe açıklanıyor.\n- Hesapta veya API anahtarında değişiklik gerektiren hatalarda otomatik denemeler durduruluyor. Ses kaydı korunuyor; sorun giderildikten sonra kayıt yeniden yazıya dökülebiliyor.\n- macOS güncelleme paketi düzeltmesi bu sürümde de bulunuyor.",
+  "pub_date": "2026-09-21T11:17:42.930Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGtXeWVzRy9HVkdXWm9RUFdrNWk3M3FNbG1QNjlMTXhSa3lSNEZucUdRWWkzWGFqWktNckhzUWVOdkFwemtmTU1CaXFnN2gzWUljelQwN2xlNXdObjJ5WXg5Y0tuN0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTg1NzgzCWZpbGU6S2F0aXAuYXBwLnRhci5negoyMlYyMXR5aUdQU3d4eXEwOGFKYUFXSkkxcGhKK24wYXpTK3V6SEFGSTNYMndCTTkwV0NVUkRCa2I5VGJSMUZlVnRSNUhvWDlqTUF4ZExVSTZxOHJEQT09Cg==",
-      "url": "https://katipai.com/releases/stable/0.1.4/Katip.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGtXeWVzRy9HVkpBV0VwN1VVajVwb2d6NHJOVmVSejBCWEZWcWk3Nkhucjl1c05HNUIvNlZhRlpTSjZpOUEwWUZLRng1TXpEK1V5c05iWVNiNm53Wkc4SVM2QkFmSVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTg5NDYyCWZpbGU6S2F0aXAuYXBwLnRhci5negpzUGJyLytETDFLM0wwMnFsUnlOdkRwODhqK3VXRWtabWloTnZzZGNRdGVyb0YrcUo0ZC9DWG9VdC9VYlJPVHQ0Z050TWFxb3VsT2YyOHRYVXpSZ0pEdz09Cg==",
+      "url": "https://katipai.com/releases/stable/0.1.5/Katip.app.tar.gz"
     }
   }
 }
